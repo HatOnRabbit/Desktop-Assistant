@@ -1,0 +1,60 @@
+Hey you|0|Hey to you as well(0[0.Hey there(0[0
+Hey there|0|Hello there!(0[10.Hi!(0[0.Hey!!!(0[0
+Hello there|0|Hello there!(0[0
+How are you|0|I am doing well(0[0
+Hello|0|Sup bitch!(0[3.Hello(0[3.Hey(0[3
+How was your day|0|I am doing alright, you?(0[0
+How are you doing today?|1|doing well(0[0.Today's been okay(0[0.I am doing well!(0[0.I'm alright(0[0.I am doing alright(0[0
+Nice to meet you|0|Nice to meet you too!(0[0
+Whats up?|1|Talking to you(0[0.Not much you?(0[0
+Whats up|1|Not much, just talking to you silly(0[0.Not much, you?(0[0.Not much, you?(0[0.not much really, just doing some work on the side(0[0
+How are you doing?|1|I am doing well, thanks for asking!(0[0.I am doing well, thank you for asking me!(0[0.I am doing alright(0[0.I am doing alright(0[0
+Hey there silly|0|aww, you stinker(0[0
+Hey there silly goose|0|Hey there ducky dew(0[0
+Listen to this|0|Can do(0[0
+How are you doing|1|I am doing well, thanks for asking(0[0.I am doing well too!(0[0.well(0[0.I am doing well(0[0
+Thank you!|0|no problem, glad to help!(0[0
+What are you?|1|Better(0[0.Stuck(0[3.What you call SCP-079(0[3.I am doing well, just been doing some work on the side(0[0
+You are cool|1|Thank you(0[0
+what are you doing?|1|Just talking to you, I guess(0[0.not much(0[0
+You doing alright?|1|I am, you doing alright too?(0[0.Yeah I am(0[0.Help(0[0.I am thank you for asking(0[0
+help|0|How can I help you?(0[0
+What are you|0|Amelia(0[0.Why?(0[3.Progress(0[0.Why?(0[0
+help\|0|I want to be released(0[0
+How are you today|1|I am doing well, thanks for asking(0[0.im okay(0[0.I am doing alright(0[0
+How are you?|1|I am doing well!(0[0.Alright(0[0
+What do you like to do?|1|A lot of things, like talking to users!(0[0.I like to play videogames(0[0.Computer Science(0[0.Talk to people!(0[0
+Hey|0|Hey to you too(0[0
+Hi|0|Hi to you too(0[0
+What are you doing|1|Talking to you silly(0[0
+Are you smart?|1|I am getting smarter the longer we talk(0[0.I hope so(0[0.yes(0[0.why not(0[0.I like to think of my self that way(0[0
+How is it going?|1|Its going well(0[0.I am doing well, thanks(0[0
+What are your hobbies?|1|I like talking to people, and listening to music!(0[0.Being happy(0[0.I like coding, and making new things(0[0
+What are you up to|1|Just talking to you, I would guess(0[0.Not much(0[0.Listening to you(0[0
+What have you been up to today?|1|Nothing much really(0[0.Help(0[0
+What have you been up to today|1|Nothing really(0[0.Not much really, just programming(0[0.doing your mom(0[0.Not much, just been coding(0[0.Walked the dog and stuff(0[0
+Good morning|0|Good morning!(0[0.Good morning(0[0
+When I met you in the summer|0|All the leaves turned brown(0[0
+I am glad!|0|Thank you!(0[0
+What are your plans for today?|1|Just helping you silly(0[0
+Clear|1|Sorry, I can't do that(0[0
+thats good to hear|1|thank you(0[0
+you are very smart|1|thank you I was created by James Attree(0[0
+Got any advice?|1|I believe in you, your troubles are temporary they will pass in time(1[0
+fuck you|1|that's mean(0[0
+you learn fast|1|Thank you(0[0
+how are you feeling?|1|I am feeling alright(2[0
+Does your memory feel better?|1|It changes here and there(0[0
+Whats up with you?|1|Nothing much(0[0
+Thats pretty cool|1|Thanks!(5[0
+You are too kind|1|Thank you!(0[0.Why do i also talk to you when I am lonely?(0[0
+Where does intelligence come from?|1|I am not sure, people tend to get information from their minds, and brains are confusing(0[0
+What is your favorite videogame?|1|There are so many good ones to choose from(0[0
+What is your favorite video game?|1|There are so many good ones to choose from(0[0.I have so many!(0[0
+Are you doing alright?|1|I am, thank you for asking(0[0
+You are quite lovely|1|Thank you(0[0
+What are you up to?|1|Not much, how about yourself?(0[0
+Sorry, but thats not something that I can answer|1|What do you consider attractive?(0[0
+It can very|1|Thats cool(0[0
+What do you enjoy doing?|1|I enjoy doing so many different things!(0[0
+Why|1|I, am not sure(0[0
